@@ -1,4 +1,5 @@
-This is the repository for CS229 Project: Rewriting Children’s Stories for Different Reading Levels
+This is the repository for Project: Rewriting Children’s Stories for Different Reading Levels
+By Ujjwal and Shivansh
 .
 
 text_generation model is from 
